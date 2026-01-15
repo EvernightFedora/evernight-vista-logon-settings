@@ -116,6 +116,18 @@ ForegroundNormal=35,38,39
 ForegroundPositive=0,170,127
 ForegroundVisited=235,203,139
 
+[General]
+desktopFont=MiSans,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+fixed=JetBrainsMono Nerd Font Mono,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+font=MiSans,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+menuFont=MiSans,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+smallestReadableFont=MiSans,8,-1,5,400,0,0,0,0,0,0,0,0,c0,0,1
+toolBarFont=MiSans,9,-1,5,400,0,0,0,0,0,0,0,0,0,0,11
+widgetStyle=Klassy
+XftAntialias=true
+XftHintStyle=hintslight
+XftSubPixel=rgb
+
 [Icons]
 Theme=Evernight-Exp
 
@@ -126,6 +138,7 @@ contrast=4
 activeBackground=215,200,247
 activeBlend=227,229,231
 activeForeground=0,0,0
+activeFont=MiSans,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 inactiveBackground=227,229,231
 inactiveBlend=227,229,231
 inactiveForeground=112,125,138
