@@ -143,7 +143,7 @@ XftHintStyle=hintslight
 XftSubPixel=rgb
 
 [Icons]
-Theme=Evernight-Exp
+Theme=Evernight
 
 [KDE]
 contrast=4
